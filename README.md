@@ -41,11 +41,11 @@ The Habit/Task Tracker app empowers users to:
 ```git clone https://github.com/yourusername/habit-task-tracker.git```
 
 ```cd habit-task-tracker```
-3. Open the project in Android Studio.
-4. Add the google-services.json file (Firebase configuration) to the project root directory.
-5. Sync Gradle and build the project:
-6. Ensure all dependencies are downloaded.
-7. Run the app on an emulator or a physical device.
+2. Open the project in Android Studio.
+3. Add the google-services.json file (Firebase configuration) to the project root directory.
+4. Sync Gradle and build the project:
+5. Ensure all dependencies are downloaded.
+6. Run the app on an emulator or a physical device.
 
 ### File Structure
 ```Habit/Task Tracker
@@ -90,4 +90,4 @@ Contributions are welcome! To contribute:
 4. Push the branch and submit a Pull Request.
 
 ### License
-This project is licensed under the MIT License. You’re free to use, modify, and distribute it.
+This project is licensed under the MIT License.
