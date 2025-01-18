@@ -1,11 +1,7 @@
-
 # Habit/Task Tracker
-
 A feature-rich Habit/Task Tracker Android app designed to help users build and maintain productive habits or manage daily tasks efficiently. Built using modern Android development practices like Jetpack Compose and integrated with Firebase for seamless data management.
 
-
 ## Table of Contents
-
 1. Introduction
 2. Features
 3. Technologies Used
@@ -37,10 +33,7 @@ The Habit/Task Tracker app empowers users to:
 5. Gradle: Dependency management and project build system.
 
 ### Setup & Installation
-1. Clone the repository:
-```git clone https://github.com/yourusername/habit-task-tracker.git```
-
-```cd habit-task-tracker```
+1. Clone the repository: ```git clone https://github.com/yourusername/habit-task-tracker.git``` & ```cd habit-task-tracker```
 2. Open the project in Android Studio.
 3. Add the google-services.json file (Firebase configuration) to the project root directory.
 4. Sync Gradle and build the project:
@@ -83,10 +76,8 @@ The Habit/Task Tracker app empowers users to:
 ### Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
-2. Create a feature branch:
-```git checkout -b feature-name```
-3.Commit your changes:
-```git commit -m "Add your message here"```
+2. Create a feature branch: ```git checkout -b feature-name```
+3.Commit your changes: ```git commit -m "Add your message here"```
 4. Push the branch and submit a Pull Request.
 
 ### License
