@@ -77,7 +77,7 @@ The Habit/Task Tracker app empowers users to:
 Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a feature branch: ```git checkout -b feature-name```
-3.Commit your changes: ```git commit -m "Add your message here"```
+3. Commit your changes: ```git commit -m "Add your message here"```
 4. Push the branch and submit a Pull Request.
 
 ### License
