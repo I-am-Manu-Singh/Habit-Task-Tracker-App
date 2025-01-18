@@ -1,0 +1,31 @@
+Habit/Task Tracker
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/com/chamberlyproject/
+│   │   │   │   ├── MainActivity.kt               // Main activity of the app
+│   │   │   │   ├── model/
+│   │   │   │   │   ├── Habit.kt                  // Data model for Habit (e.g., Habit attributes like name, progress)
+│   │   │   │   │   ├── User.kt                   // Data model for User (e.g., user information, settings)
+│   │   │   │   ├── repository/
+│   │   │   │   │   ├── FirebaseRepository.kt     // Repository for handling FB data interactions
+│   │   │   │   ├── ui/
+│   │   │   │   │   ├── HabitTrackerApp.kt        // Main UI container
+│   │   │   │   │   ├── components/
+│   │   │   │   │   │   ├── HabitItem.kt          // for displaying individual Habit items
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   ├── drawable/
+│   │   │   │   ├── values/
+│   │   │   │   │   ├── colors.xml
+│   │   │   │   │   ├── themes.xml
+│   │   │   │   │   ├── strings.xml
+│   │   │   │   │   ├── dimens.xml
+│   │   │   │   ├── xml/
+│   │   ├── androidTest/
+│   │   ├── test/
+│   ├── build.gradle                              // Module-level build configuration (dependencies, versioning)
+├── google-services.json                          // Firebase configuration file
+├── build.gradle                                  // Project-level build configuration (repositories, plugin versions)
+├── settings.gradle                               // Settings for Gradle project (configure project structure)
+
