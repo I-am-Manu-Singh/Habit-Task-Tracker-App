@@ -1,15 +1,6 @@
 # Habit/Task Tracker
 A feature-rich Habit/Task Tracker Android app designed to help users build and maintain productive habits or manage daily tasks efficiently. Built using modern Android development practices like Jetpack Compose and integrated with Firebase for seamless data management.
 
-## Table of Contents
-1. Introduction
-2. Features
-3. Technologies Used
-4. Setup and Installation
-5. File Structure
-6. Contributing
-7. License
-
 ### Introduction
 The Habit/Task Tracker app empowers users to:
 1. Create, manage, and track habits or daily tasks.
@@ -72,6 +63,9 @@ The Habit/Task Tracker app empowers users to:
 ├── build.gradle                                  // Project-level build configuration (repositories, plugin versions)
 ├── settings.gradle                               // Settings for Gradle project (configure project structure)
 ```
+### Screenshots & App Demo Video :
+
+(Will upload these soon.)
 
 ### Contributing
 Contributions are welcome! To contribute:
