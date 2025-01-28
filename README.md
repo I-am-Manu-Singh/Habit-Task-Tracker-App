@@ -1,12 +1,16 @@
 # Habit/Task Tracker
 A feature-rich Habit/Task Tracker Android app designed to help users build and maintain productive habits or manage daily tasks efficiently. Built using modern Android development practices like Jetpack Compose and integrated with Firebase for seamless data management.
 
+---
+
 ### Introduction
 The Habit/Task Tracker app empowers users to:
 1. Create, manage, and track habits or daily tasks.
 2. Set progress goals for each habit.
 3. Monitor performance and stay motivated with insightful tracking.
 4. The app is designed with a clean, intuitive user interface for a seamless experience.
+
+---
 
 ### Features
 1. Habit Creation: Add and customize habits/tasks with names and goals with fast retrieval of habits/tasks from Firebase
@@ -16,12 +20,16 @@ The Habit/Task Tracker app empowers users to:
 5. Modern UI: Built using Jetpack Compose for a responsive and visually appealing user experience.
 6. Offline Usage: Easy usage in offline mode(mobile data off) with usage of efficient caching.
 
+---
+
 ### Technologies Used
 1. Kotlin: Primary programming language.
 2. Jetpack Compose: Modern UI toolkit for Android development.
 3. Firebase: Backend support for data synchronization and storage.
 4. Firebase Realtime Database/Firestore.
 5. Gradle: Dependency management and project build system.
+
+---
 
 ### Setup & Installation
 1. Clone the repository: ```git clone https://github.com/yourusername/habit-task-tracker.git``` & ```cd habit-task-tracker```
@@ -31,8 +39,11 @@ The Habit/Task Tracker app empowers users to:
 5. Ensure all dependencies are downloaded.
 6. Run the app on an emulator or a physical device.
 
+---
+
 ### File Structure
-```Habit/Task Tracker
+```yaml
+Habit/Task Tracker
 ├── app/
 │   ├── src/
 │   │   ├── main/
@@ -63,9 +74,13 @@ The Habit/Task Tracker app empowers users to:
 ├── build.gradle                                  // Project-level build configuration (repositories, plugin versions)
 ├── settings.gradle                               // Settings for Gradle project (configure project structure)
 ```
+---
+
 ### Screenshots & App Demo Video :
 
 (Will upload these soon.)
+
+---
 
 ### Contributing
 Contributions are welcome! To contribute:
@@ -73,6 +88,8 @@ Contributions are welcome! To contribute:
 2. Create a feature branch: ```git checkout -b feature-name```
 3. Commit your changes: ```git commit -m "Add your message here"```
 4. Push the branch and submit a Pull Request.
+
+---
 
 ### License
 This project is licensed under the MIT License.
