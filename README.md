@@ -78,7 +78,7 @@ Habit/Task Tracker
 
 ### Screenshots & App Demo Video :
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3xV5ayFXEbk/0.jpg)](https://www.youtube.com/watch?v=3xV5ayFXEbk)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FGihSNGcbQ8/0.jpg)](https://www.youtube.com/watch?v=FGihSNGcbQ8)
 
 ---
 
